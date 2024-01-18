@@ -1,4 +1,4 @@
-title:elisys
+title:Uhh...
 
 // Marsilion-C - marsilion-c - PvE [god] (god-pve,controller)
 //notes: tags:god-pve,controller
@@ -8,6 +8,11 @@ dimwishlist:item=867154247&perks=1478423395,3301904089,968510818,4293542123
 // Nameless Midnight (god-pvp,controller)
 //notes: tags:god-pvp,controller
 dimwishlist:item=996109059&perks=4090651448,3230963543,1866048759,3038247973
+
+
+// Recurrent Impact (god-pve,controller)
+//notes: tags:god-pve,controller
+dimwishlist:item=1572896086&perks=3661387068,106909392,1820235745,124408337
 
 
 // Vulpecula - vulpecula - PvE [God] (controller,god-pve)
