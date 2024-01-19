@@ -72,6 +72,12 @@ dimwishlist:item=2510526114&perks=3230963543,3828510309,124408337
 dimwishlist:item=2852052802&perks=839105230,679225683,3643424744,4049631843
 
 
+// Indebted Kindness (controller,pve,pvp)
+//notes: tags:controller,pve,pvp
+dimwishlist:item=3381450498&perks=3798852852,3230963543,3828510309,2173046394
+dimwishlist:item=3381450498&perks=3798852852,3230963543,2859149211,2173046394
+
+
 // Parabellum (god-pve,controller)
 //notes: tags:god-pve,controller
 dimwishlist:item=3926811686&perks=839105230,106909392,3017780555,243981275

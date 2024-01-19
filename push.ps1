@@ -1,6 +1,9 @@
 clear-host
 
+set-location 'S:\Codex\OneDrive\GitHub\wishlist\'
+
 $unixtime = [DateTimeOffset]::Now.ToUnixTimeSeconds()
+
 if (test-path -LiteralPath 'S:\Codex\OneDrive\Downloads\Uhh....json')
 {
     if (test-path -LiteralPath 'S:\Codex\OneDrive\GitHub\wishlist\elisys.json')
@@ -19,3 +22,8 @@ if (test-path -LiteralPath 'S:\Codex\OneDrive\Downloads\Uhh....txt')
     }
     move-item -LiteralPath 'S:\Codex\OneDrive\Downloads\Uhh....txt' -Destination 'S:\Codex\OneDrive\GitHub\wishlist\elisys.txt'
 }
+
+git commit -am.
+
+git push
+
