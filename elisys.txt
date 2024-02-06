@@ -1,13 +1,27 @@
-title:Uhh...
+title:elisys
 
-// Marsilion-C - marsilion-c - PvE [god] (god-pve,controller)
+// Luna's Howl (god-pvp,controller)
+//notes: tags:god-pvp,controller
+dimwishlist:item=153979396&perks=1392496348,4134353779,2387244414,2720533289
+
+
+// Marsilion-C (god-pve,controller)
 //notes: tags:god-pve,controller
-dimwishlist:item=867154247&perks=1478423395,3301904089,968510818,4293542123
+dimwishlist:item=867154247&perks=1478423395,3301904089,2308090567,4293542123
+dimwishlist:item=867154247&perks=1478423395,3301904089,2308090567,2675184851
+dimwishlist:item=867154247&perks=1478423395,3301904089,2869569095,4293542123
+dimwishlist:item=867154247&perks=1478423395,3301904089,2869569095,2675184851
 
 
 // Nameless Midnight (god-pvp,controller)
 //notes: tags:god-pvp,controller
 dimwishlist:item=996109059&perks=4090651448,3230963543,1866048759,3038247973
+dimwishlist:item=996109059&perks=4090651448,3230963543,2039302152,3038247973
+
+
+// Felwinter's Lie (god-pvp)
+//notes: tags:god-pvp
+dimwishlist:item=1179141605&perks=1047830412,3142289711,3161816588,47981717
 
 
 // Recurrent Impact (god-pve,controller)
@@ -70,12 +84,6 @@ dimwishlist:item=2510526114&perks=3230963543,3828510309,124408337
 // Krait (god-pve,controller)
 //notes: tags:god-pve,controller
 dimwishlist:item=2852052802&perks=839105230,679225683,3643424744,4049631843
-
-
-// Indebted Kindness (controller,pve,pvp)
-//notes: tags:controller,pve,pvp
-dimwishlist:item=3381450498&perks=3798852852,3230963543,3828510309,2173046394
-dimwishlist:item=3381450498&perks=3798852852,3230963543,2859149211,2173046394
 
 
 // Parabellum (god-pve,controller)
