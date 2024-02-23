@@ -14,7 +14,7 @@ if (test-path 'S:\Codex\OneDrive\GitHub\wishlist\elisys.txt') {
 if (test-path 'S:\Codex\OneDrive\GitHub\wishlist\elisys.bin') {
     Copy-Item 'S:\Codex\OneDrive\GitHub\wishlist\elisys.bin' "S:\Codex\OneDrive\GitHub\wishlist\bkup\$unixtime.bin"
 }
-7za u -r -y -mx9 bkup.zip bkup
+zip -0rm bkup.zip bkup
 start-sleep 1
 Remove-Item ".\bkup" -Recurse -ErrorAction SilentlyContinue
 start-sleep 1
