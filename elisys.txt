@@ -1,62 +1,91 @@
-title:Uhh...
+title:elisys
 
-// Marsilion-C - marsilion-c - PvE [god] (god-pve,controller)
-//notes: tags:god-pve,controller
-dimwishlist:item=867154247&perks=1478423395,3301904089,968510818,4293542123
+// Luna's Howl (god-pvp)
+//notes: tags:god-pvp
+dimwishlist:item=153979396&perks=1392496348,4134353779,2387244414,2720533289
 
 
-// Nameless Midnight (god-pvp,controller)
-//notes: tags:god-pvp,controller
+// Marsilion-C (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=867154247&perks=1478423395,3301904089,2308090567,4293542123
+dimwishlist:item=867154247&perks=1478423395,3301904089,2308090567,2675184851
+dimwishlist:item=867154247&perks=1478423395,3301904089,2869569095,4293542123
+dimwishlist:item=867154247&perks=1478423395,3301904089,2869569095,2675184851
+
+
+// Rose (god-pvp)
+//notes: tags:god-pvp
+dimwishlist:item=882778888&perks=839105230,106909392,3161816588,47981717,3326204863
+
+
+// Rose (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=882778888&perks=839105230,106909392,3161816588,3038247973,3326204863
+
+
+// Rose (pvp,pve)
+//notes: tags:pvp,pve
+dimwishlist:item=882778888&perks=4090651448,3230963543,706527188
+
+
+// Nameless Midnight (god-pvp)
+//notes: tags:god-pvp
 dimwishlist:item=996109059&perks=4090651448,3230963543,1866048759,3038247973
+dimwishlist:item=996109059&perks=4090651448,3230963543,2039302152,3038247973
 
 
-// Recurrent Impact (god-pve,controller)
-//notes: tags:god-pve,controller
-dimwishlist:item=1572896086&perks=3661387068,106909392,1820235745,124408337
+// Felwinter's Lie (god-pvp)
+//notes: tags:god-pvp
+dimwishlist:item=1179141605&perks=1047830412,3142289711,3161816588,47981717
 
 
-// Vulpecula - vulpecula - PvE [God] (controller,god-pve)
-//notes: tags:controller,god-pve
+// Recurrent Impact (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=1572896086&perks=839105230,106909392,1820235745,4104185692,1536798515
+
+
+// Vulpecula - vulpecula - PvE [God] (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=1622998472&perks=3661387068,3230963543,1168162263,3038247973
 
 
-// Vulpecula - vulpecula - PvP [god] (god-pvp,controller)
-//notes: tags:god-pvp,controller
+// Vulpecula - vulpecula - PvP [god] (god-pvp)
+//notes: tags:god-pvp
 dimwishlist:item=1622998472&perks=3250034553,3142289711,2450788523,3038247973
 
 
-// Herod-C - Herod-C - PvE [God] (god-pve,controller)
-//notes: tags:god-pve,controller
+// Herod-C - Herod-C - PvE [God] (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=1788603939&perks=839105230,1968497646,1820235745,4104185692
 
 
-// Herod-C - herod-C - PvP [God] (god-pvp,controller)
-//notes: tags:god-pvp,controller
+// Herod-C - herod-C - PvP [God] (god-pvp)
+//notes: tags:god-pvp
 dimwishlist:item=1788603939&perks=839105230,1885400500,1359896290,1890422124
 
 
-// Prolonged Engagement (god-pvp,controller)
-//notes: tags:god-pvp,controller
-dimwishlist:item=2349907931&perks=1840239774,1885400500,2450788523,2846385770
+// Prolonged Engagement (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=2349907931&perks=839105230,1885400500,1820235745,124408337
 
 
-// Prolonged Engagement (god-pve,controller)
-//notes: tags:god-pve,controller
-dimwishlist:item=2349907931&perks=4090651448,1885400500,1631667848,691659142
+// Prolonged Engagement (god-pvp)
+//notes: tags:god-pvp
+dimwishlist:item=2349907931&perks=839105230,1968497646,2450788523,1365187766
 
 
-// Unending Tempest - Unending Tempest - PvP [God] (god-pvp,controller)
-//notes: tags:god-pvp,controller
+// Unending Tempest - Unending Tempest - PvP [God] (god-pvp)
+//notes: tags:god-pvp
 dimwishlist:item=2510526114&perks=4090651448,3142289711,1428297954,365154968
 
 
-// Unending Tempest - Unending Tempest - PvE [God] (god-pve,controller)
-//notes: tags:god-pve,controller
+// Unending Tempest - Unending Tempest - PvE [God] (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=2510526114&perks=4090651448,106909392,3523296417,11612903
 
 
-// Unending Tempest - Unending Tempest - PvE (pve,controller)
-//notes: tags:pve,controller
+// Unending Tempest - Unending Tempest - PvE (pve)
+//notes: tags:pve
 dimwishlist:item=2510526114&perks=4134353779,1820235745,2846385770
 dimwishlist:item=2510526114&perks=4134353779,1820235745,124408337
 dimwishlist:item=2510526114&perks=4134353779,3828510309,2846385770
@@ -67,40 +96,54 @@ dimwishlist:item=2510526114&perks=3230963543,3828510309,2846385770
 dimwishlist:item=2510526114&perks=3230963543,3828510309,124408337
 
 
-// Krait (god-pve,controller)
-//notes: tags:god-pve,controller
+// Riptide (god-pvp)
+//notes: tags:god-pvp
+dimwishlist:item=2715240478&perks=3250034553,689005463,3300816228,2978966579,4091460919
+
+
+// Riptide (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=2715240478&perks=4090651448,689005463,3300816228,2978966579,4091460919
+
+
+// Riptide (pve,pvp)
+//notes: tags:pve,pvp
+dimwishlist:item=2715240478&perks=1556840489,2726471870
+dimwishlist:item=2715240478&perks=1428297954,2726471870
+
+
+// Krait (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=2852052802&perks=839105230,679225683,3643424744,4049631843
 
 
-// Indebted Kindness (controller,pve,pvp)
-//notes: tags:controller,pve,pvp
-dimwishlist:item=3381450498&perks=3798852852,3230963543,3828510309,2173046394
-dimwishlist:item=3381450498&perks=3798852852,3230963543,2859149211,2173046394
+// MIDA Mini-Tool (god-pve,god-pvp)
+//notes: tags:god-pve,god-pvp
+dimwishlist:item=3089417788&perks=1840239774,1431678320,1866048759,1015611457
 
 
-// Parabellum (god-pve,controller)
-//notes: tags:god-pve,controller
+// Parabellum (god-pve)
+//notes: tags:god-pve
 dimwishlist:item=3926811686&perks=839105230,106909392,3017780555,243981275
 
 
-// Parabellum (god-pvp,controller)
-//notes: tags:god-pvp,controller
+// Parabellum (god-pvp)
+//notes: tags:god-pvp
 dimwishlist:item=3926811686&perks=839105230,3142289711,3017780555,1359896290
 
 
-// Seventh Seraph SI-2 (god-pve,controller)
-//notes: tags:god-pve,controller
-dimwishlist:item=3937866388&perks=839105230,3230963543,3523296417,2848615171
-dimwishlist:item=3937866388&perks=839105230,4134353779,3523296417,2848615171
+// Heliocentric QSc (god-pvp)
+//notes: tags:god-pvp
+dimwishlist:item=3998080529&perks=839105230,106909392,3017780555,1015611457
 
 
-// Heliocentric QSc (controller,god-pve)
-//notes: tags:controller,god-pve
-dimwishlist:item=3998080529&perks=839105230,106909392,3828510309,555281244
+// Heliocentric QSc (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=3998080529&perks=839105230,106909392,3523296417,11612903,2509860981
 
 
-// Heliocentric QSc (god-pvp,controller)
-//notes: tags:god-pvp,controller
-dimwishlist:item=3998080529&perks=3250034553,3142289711,1428297954,1015611457
+// Heliocentric QSc (pve)
+//notes: tags:pve
+dimwishlist:item=3998080529&perks=839105230,106909392,3017780555,4293542123,2509860981
 
 

@@ -1,28 +1,28 @@
 clear-host
 
-set-location 'S:\Codex\OneDrive\GitHub\wishlist\'
+set-location 'S:\Codex\Drive\GitHub\wishlist\'
 
 $unixtime = [DateTimeOffset]::Now.ToUnixTimeSeconds()
 
-if (!(test-path 'S:\Codex\OneDrive\GitHub\wishlist\bkup')) {
-    New-Item -Path 'S:\Codex\OneDrive\GitHub\wishlist\' -Name 'bkup\' -ItemType 'Directory'
+New-Item -Path 'S:\Codex\Drive\GitHub\wishlist\bkup'  -ItemType 'Directory' -force
+
+if (test-path 'S:\Codex\Drive\GitHub\wishlist\elisys.json') {
+    Copy-Item 'S:\Codex\Drive\GitHub\wishlist\elisys.json' "S:\Codex\Drive\GitHub\wishlist\bkup\$unixtime.json"
 }
 
-if (test-path 'S:\Codex\OneDrive\GitHub\wishlist\elisys.json') {
-    Copy-Item 'S:\Codex\OneDrive\GitHub\wishlist\elisys.json' "S:\Codex\OneDrive\GitHub\wishlist\bkup\$unixtime.json"
-}
-
-if (test-path 'S:\Codex\OneDrive\GitHub\wishlist\elisys.txt') {
-    Copy-Item 'S:\Codex\OneDrive\GitHub\wishlist\elisys.txt' "S:\Codex\OneDrive\GitHub\wishlist\bkup\$unixtime.txt"
+if (test-path 'S:\Codex\Drive\GitHub\wishlist\elisys.txt') {
+    Copy-Item 'S:\Codex\Drive\GitHub\wishlist\elisys.txt' "S:\Codex\Drive\GitHub\wishlist\bkup\$unixtime.txt"
 }
 
 zip -0rm bkup.zip bkup
 
 start-sleep 1
+if (Test-Path 'S:\Codex\Drive\GitHub\wishlist\bkup' ) {
+    Remove-Item ".\bkup" -Recurse -ErrorAction SilentlyContinue
+}
 
-Remove-Item ".\bkup" -Recurse -ErrorAction SilentlyContinue
-
-start-sleep 1
+start-sleep 2
 
 git commit -am.
+
 git push
