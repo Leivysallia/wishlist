@@ -7,21 +7,14 @@ $unixtime = [DateTimeOffset]::Now.ToUnixTimeSeconds()
 New-Item -Path 'S:\Codex\Drive\GitHub\wishlist\bkup'  -ItemType 'Directory' -force
 
 if (test-path 'S:\Codex\Drive\GitHub\wishlist\elisys.json') {
-    Copy-Item 'S:\Codex\Drive\GitHub\wishlist\elisys.json' "S:\Codex\Drive\GitHub\wishlist\bkup\$unixtime.json"
+    Copy-Item 'S:\Codex\Drive\GitHub\wishlist\elisys.json' "S:\Codex\Drive\GitHub\wishlist\bkup\elisys.json.bkup"
 }
 
 if (test-path 'S:\Codex\Drive\GitHub\wishlist\elisys.txt') {
-    Copy-Item 'S:\Codex\Drive\GitHub\wishlist\elisys.txt' "S:\Codex\Drive\GitHub\wishlist\bkup\$unixtime.txt"
+    Copy-Item 'S:\Codex\Drive\GitHub\wishlist\elisys.txt' "S:\Codex\Drive\GitHub\wishlist\bkup\elisys.txt.bkup"
 }
 
-zip -0rm bkup.zip bkup
-
-start-sleep 1
-if (Test-Path 'S:\Codex\Drive\GitHub\wishlist\bkup' ) {
-    Remove-Item ".\bkup" -Recurse -ErrorAction SilentlyContinue
-}
-
-start-sleep 2
+zip -0rm '.\bkup.zip' '.\bkup\'
 
 git commit -am.
 
