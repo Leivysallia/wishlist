@@ -2,7 +2,7 @@ clear-host
 
 set-location 'S:\Codex\OneDrive\Documents\GitHub\wishlist\'
 
-$unixtime = [DateTimeOffset]::Now.ToUnixTimeSeconds()
+#$unixtime = [DateTimeOffset]::Now.ToUnixTimeSeconds()
 
 New-Item -Path 'S:\Codex\OneDrive\Documents\GitHub\wishlist\bkup'  -ItemType 'Directory' -force
 
