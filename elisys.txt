@@ -10,26 +10,6 @@ dimwishlist:item=153979396&perks=1392496348,4134353779,2387244414,2720533289
 dimwishlist:item=153979396&perks=1392496348,4134353779,2387244414,2720533289
 
 
-// The Title (pve)
-//notes: tags:pve
-dimwishlist:item=655712834&perks=1546637391
-
-
-// The Title (pve)
-//notes: tags:pve
-dimwishlist:item=655712834&perks=1631667848
-
-
-// The Title (pve)
-//notes: tags:pve
-dimwishlist:item=655712834&perks=3230963543
-
-
-// The Title (pve)
-//notes: tags:pve
-dimwishlist:item=655712834&perks=4090651448
-
-
 // Marsilion-C (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=867154247&perks=3798852852,1380253176,968510818,3194351027
@@ -85,6 +65,14 @@ dimwishlist:item=1788603939&perks=839105230,1885400500,1820235745,3511092054
 // Falling Guillotine (pve)
 //notes: tags:pve
 dimwishlist:item=1815105249&perks=3666208348,269888150,2396489472,2048641572
+
+
+// Qua Xaphan V (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=1975125963&perks=839105230,3230963543,1359896290,2048641572
+dimwishlist:item=1975125963&perks=839105230,3230963543,1359896290,1926441324
+dimwishlist:item=1975125963&perks=839105230,3230963543,3060983774,2048641572
+dimwishlist:item=1975125963&perks=839105230,3230963543,3060983774,1926441324
 
 
 // Prolonged Engagement (god-pve)
@@ -170,6 +158,16 @@ dimwishlist:item=3089417788&perks=1840239774,1431678320,1866048759,1015611457
 dimwishlist:item=3089417788&perks=1840239774,1431678320,1866048759,1015611457
 
 
+// Laser Painter (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=3221722018&perks=839105230,689005463,3300816228,1546637391
+
+
+// Laser Painter (pve)
+//notes: tags:pve
+dimwishlist:item=3221722018&perks=839105230,689005463,2284787283,831391274
+
+
 // Palmyra-B (god-pve)
 //notes: tags:god-pve
 dimwishlist:item=3489657138&perks=1441682018,2822142346,3300816228,2978966579
@@ -188,6 +186,16 @@ dimwishlist:item=3926811686&perks=839105230,106909392,3017780555,243981275
 // Parabellum (god-pvp)
 //notes: tags:god-pvp
 dimwishlist:item=3926811686&perks=839105230,3142289711,3017780555,1359896290
+
+
+// Hush (god-pvp)
+//notes: tags:god-pvp
+dimwishlist:item=3962575203&perks=1784898267,16392701,47981717,3365897133
+
+
+// Hush (god-pve)
+//notes: tags:god-pve
+dimwishlist:item=3962575203&perks=1784898267,16392701,243981275,4293542123
 
 
 // Heliocentric QSc (god-pvp)
