@@ -1,5 +1,5 @@
 title:echos
-description:Season 24 // Failsafe
+description:Season 24
 
 // Rose (god-pvp)
 //notes: tags:god-pvp
