@@ -1,6 +1,6 @@
 {
     "description": "W.I.P.\nmy cumulative list for season season 24.",
-    "name": "leivysalia",
+    "name": "leivysallia",
     "data": [
         {
             "description": "",
@@ -316,8 +316,8 @@
                     689005463
                 ],
                 [
-                    3563868667,
-                    2284787283
+                    3300816228,
+                    3528046508
                 ],
                 [
                     831391274,
@@ -325,7 +325,8 @@
                 ]
             ],
             "tags": [
-                "GodPVE"
+                "GodPVE",
+                "Controller"
             ]
         },
         {
@@ -361,8 +362,7 @@
                     839105230
                 ],
                 [
-                    3230963543,
-                    106909392
+                    3230963543
                 ],
                 [
                     3060983774,
@@ -374,7 +374,8 @@
                 ]
             ],
             "tags": [
-                "GodPVP"
+                "PVP",
+                "Controller"
             ]
         },
         {
@@ -915,6 +916,31 @@
             ],
             "tags": [
                 "GodPVP",
+                "Controller"
+            ]
+        },
+        {
+            "description": "",
+            "hash": 2510526114,
+            "name": "",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    106909392
+                ],
+                [
+                    3060983774,
+                    1359896290
+                ],
+                [
+                    2939589096,
+                    365154968
+                ]
+            ],
+            "tags": [
+                "PVP",
                 "Controller"
             ]
         }
