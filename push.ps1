@@ -18,3 +18,4 @@ Set-Location $PSScriptRoot
 git add --all
 git commit -am'push.ps1'
 git push
+git gc
