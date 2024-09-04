@@ -1087,6 +1087,30 @@
                 "GodPVP",
                 "Controller"
             ]
+        },
+        {
+            "description": "",
+            "hash": 2782325300,
+            "name": "",
+            "plugs": [
+                [
+                    3666208348
+                ],
+                [
+                    269888150
+                ],
+                [
+                    1749209109
+                ],
+                [
+                    354401740
+                ]
+            ],
+            "tags": [
+                "GodPVE",
+                "GodPVP",
+                "Controller"
+            ]
         }
     ]
 }
