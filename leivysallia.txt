@@ -210,6 +210,11 @@ dimwishlist:item=2715240478&perks=839105230,689005463,1556840489,2978966579,4091
 dimwishlist:item=2742838700&perks=1926090092,3230963543,47981717,1954620775
 
 
+// Quickfang (god-pve,god-pvp,controller)
+//notes: tags:god-pve,god-pvp,controller
+dimwishlist:item=2782325300&perks=3666208348,269888150,1749209109,354401740
+
+
 // Multimach CCX (god-pvp,controller)
 //notes: tags:god-pvp,controller
 dimwishlist:item=3211624072&perks=3250034553,3230963543,1359896290,365154968,3989629871
