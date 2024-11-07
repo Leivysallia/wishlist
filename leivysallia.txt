@@ -432,22 +432,9 @@ dimwishlist:item=3143732432&perks=1840239774,3230963543,1820235745,3425386926
 dimwishlist:item=3143732432&perks=1840239774,1885400500,1359896290,3425386926
 
 
-// False Promises (pve,controller)
-//notes: tags:pve,controller
-dimwishlist:item=3143732432&perks=1840239774,1885400500,3643424744,3425386926
-
-
 // False Promises (pve)
 //notes: tags:pve
-dimwishlist:item=3143732432&perks=1392496348,3230963543,3643424744,3108830275
-
-
-// False Promises ()
-dimwishlist:item=3143732432&perks=
-
-
-// False Promises ()
-dimwishlist:item=3143732432&perks=
+dimwishlist:item=3143732432&perks=1482024992,3230963543,2450788523,2387244414
 
 
 // Multimach CCX (god-pvp,controller)
