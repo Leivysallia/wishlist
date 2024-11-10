@@ -2100,6 +2100,22 @@
             "tags": [
                 "PVE"
             ]
+        },
+        {
+            "description": "Relativism",
+            "hash": 2809120022,
+            "name": "Relativism",
+            "plugs": [
+                [
+                    3751917996
+                ],
+                [
+                    3751917992
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ]
         }
     ]
 }
