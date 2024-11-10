@@ -51,9 +51,9 @@
             ]
         },
         {
-            "description": "",
+            "description": "GodPVE",
             "hash": 1058098236,
-            "name": "",
+            "name": "Timeworn Wayfarer",
             "plugs": [
                 [
                     839105230
@@ -2099,22 +2099,6 @@
             ],
             "tags": [
                 "PVE"
-            ]
-        },
-        {
-            "description": "Relativism, GodPVE",
-            "hash": 2809120022,
-            "name": "GodPVE Relativism",
-            "plugs": [
-                [
-                    3751917996
-                ],
-                [
-                    3751917992
-                ]
-            ],
-            "tags": [
-                "GodPVE"
             ]
         }
     ]
