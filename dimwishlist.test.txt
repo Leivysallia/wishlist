@@ -1,0 +1,3 @@
+// Pyroclastic Flow
+dimwishlist:item=1289324202&perks=981914802,2822142346,706527188,1275731761#notes=Quick Launch, High-Velocity Rounds, Quickdraw, Cluster Bomb|tags:pvp
+dimwishlist:item=1289324202&perks=1478423395,3796465595,2010801679,1275731761#notes=Volatile Launch, Impact Casing, Ambitious Assassin, Cluster Bomb|tags:pve
