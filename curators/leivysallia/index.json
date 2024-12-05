@@ -1,0 +1,17 @@
+{
+    "name": "Revia Scarlet",
+    "description": "Leivysallia's Wishlist...",
+    "bundles": [
+        {
+            "name": "Revia Scarlet",
+            "description": "Leivysallia's Wishlist...",
+            "output": "revia-seasons.json",
+            "files": [
+                "curators/leivysallia/json/Season_22.json",
+                "curators/leivysallia/json/Season_23.json",
+                "curators/leivysallia/json/Season_24.json",
+                "curators/leivysallia/json/Season_25.json"
+            ]
+        }
+    ]
+}
