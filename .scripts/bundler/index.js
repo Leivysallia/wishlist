@@ -92,16 +92,16 @@ async function buildCuratorPartials(curator) {
 /**
  * @param {string[]} curators
  */
- async function buildWishlistsIndex(curators) {
-     /** @type {WishlistIndexFolder} */
-    let root = {files:[],folders:[]};
+async function buildWishlistsIndex(curators) {
+    /** @type {WishlistIndexFolder} */
+    let root = { files: [], folders: [] };
     const cdnFilesRoot = "https://cdn.jsdelivr.net/gh/LittleLightForDestiny/littlelight_wishlists@HEAD/deliverables";
-    for(let curatorName of curators){
+    for (let curatorName of curators) {
         const curator = await loadCuratorInfo(curatorName);
-        let bundles = curator.bundles.filter((b)=>!b.hidden);
+        let bundles = curator.bundles.filter((b) => !b.hidden);
         /** @type {Set<string>} */
         let partials = new Set();
-        for(let bundle of bundles){
+        for (let bundle of bundles) {
             /** @type {WishlistIndexFile} */
             const bundleFile = {
                 name: bundle.name,
@@ -117,7 +117,7 @@ async function buildCuratorPartials(curator) {
             description: curator.description,
             files: []
         };
-        for(let partialPath of partials){
+        for (let partialPath of partials) {
             let wishlist = await loadWishlist(partialPath);
             /** @type {WishlistIndexFile} */
             let partialFile = {
@@ -127,7 +127,7 @@ async function buildCuratorPartials(curator) {
             };
             curatorFolder.files.push(partialFile);
         }
-        if(curatorFolder.files.length > 0){
+        if (curatorFolder.files.length > 0) {
             root.folders.push(curatorFolder);
         }
     }
@@ -159,10 +159,10 @@ async function buildBundle(bundle, curator) {
 async function run() {
     const config = await loadConfig();
     const curatorParam = process.argv[2];
-    if(curatorParam == null){
+    if (curatorParam == null) {
         var exists = await fs.pathExists("./deliverables");
-        if(exists){
-            await fs.rm('./deliverables', {recursive:true});    
+        if (exists) {
+            await fs.rm('./deliverables', { recursive: true });
         }
     }
     const curators = curatorParam ? config.curators.filter((c) => c == curatorParam) : config.curators;
@@ -171,7 +171,7 @@ async function run() {
         await buildCuratorBundles(curator);
         await buildCuratorPartials(curator);
     }
-    if(curatorParam == null){
+    if (curatorParam == null) {
         await buildWishlistsIndex(curators);
     }
 }
