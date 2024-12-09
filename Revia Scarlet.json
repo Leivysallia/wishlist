@@ -840,6 +840,232 @@
             "originalWishlist": "leivysallia/json/Season_24"
         },
         {
+            "description": "Season 24",
+            "hash": 3615421669,
+            "name": "Suspectum-4fr",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    1687452232
+                ],
+                [
+                    968510818,
+                    424370782
+                ],
+                [
+                    555281244,
+                    332733060
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ],
+            "originalWishlist": "leivysallia/json/Season_24"
+        },
+        {
+            "description": "Season 24",
+            "hash": 3615421669,
+            "name": "Suspectum-4fr",
+            "plugs": [
+                [
+                    1482024992,
+                    3250034553,
+                    4090651448,
+                    3661387068
+                ],
+                [
+                    689005463,
+                    2969185026
+                ],
+                [
+                    124408337,
+                    3828510309,
+                    1171887445,
+                    1771736209
+                ],
+                [
+                    2978966579,
+                    1354429876,
+                    848860060,
+                    344235611
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "originalWishlist": "leivysallia/json/Season_24"
+        },
+        {
+            "description": "Season 24",
+            "hash": 2322926844,
+            "name": "Shadow Price",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    3230963543
+                ],
+                [
+                    3643424744,
+                    2682205016
+                ],
+                [
+                    2173046394,
+                    1720528630
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ],
+            "originalWishlist": "leivysallia/json/Season_24"
+        },
+        {
+            "description": "Season 24",
+            "hash": 2322926844,
+            "name": "Shadow Price",
+            "plugs": [
+                [
+                    3661387068
+                ],
+                [
+                    106909392,
+                    3142289711,
+                    3177308360
+                ],
+                [
+                    880644845,
+                    243981275,
+                    3120212825,
+                    984655331
+                ],
+                [
+                    3523296417,
+                    3708227201,
+                    1906147653,
+                    781192741
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "originalWishlist": "leivysallia/json/Season_24"
+        },
+        {
+            "description": "Season 24",
+            "hash": 1058098236,
+            "name": "Timeworn Wayfarer",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    106909392
+                ],
+                [
+                    3017780555,
+                    4223976499
+                ],
+                [
+                    4293542123,
+                    2675184851
+                ]
+            ],
+            "tags": [
+                "GodPVE"
+            ],
+            "originalWishlist": "leivysallia/json/Season_24"
+        },
+        {
+            "description": "Season 24",
+            "hash": 1058098236,
+            "name": "Timeworn Wayfarer",
+            "plugs": [
+                [
+                    3661387068
+                ],
+                [
+                    106909392,
+                    3230963543,
+                    3142289711
+                ],
+                [
+                    3143051906,
+                    848860060,
+                    2840833776,
+                    3120212825,
+                    3700496672,
+                    1354429876,
+                    880644845,
+                    25606670
+                ],
+                [
+                    555281244,
+                    2109543898,
+                    332733060,
+                    2799030358
+                ]
+            ],
+            "tags": [
+                "PVE"
+            ],
+            "originalWishlist": "leivysallia/json/Season_24"
+        },
+        {
+            "description": "Season 24",
+            "hash": 1058098236,
+            "name": "Timeworn Wayfarer",
+            "plugs": [
+                [
+                    839105230
+                ],
+                [
+                    3142289711
+                ],
+                [
+                    1354429876,
+                    848860060
+                ],
+                [
+                    555281244,
+                    332733060
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ],
+            "originalWishlist": "leivysallia/json/Season_24"
+        },
+        {
+            "description": "Season 24",
+            "hash": 1058098236,
+            "name": "Timeworn Wayfarer",
+            "plugs": [
+                [
+                    3661387068
+                ],
+                [
+                    106909392
+                ],
+                [
+                    3938834702,
+                    3416609154,
+                    880644845,
+                    3120212825
+                ],
+                [
+                    47981717,
+                    1370847713
+                ]
+            ],
+            "tags": [
+                "PVP"
+            ],
+            "originalWishlist": "leivysallia/json/Season_24"
+        },
+        {
             "description": "Season 25",
             "hash": 1051949956,
             "name": "Anonymous Autumn",
