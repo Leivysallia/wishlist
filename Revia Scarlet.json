@@ -2968,11 +2968,17 @@
                 ],
                 [
                     3050799639,
-                    2416023159
+                    2416023159,
+                    3828510309,
+                    1771736209,
+                    1119449540,
+                    561986700
                 ],
                 [
                     2109543898,
-                    2799030358
+                    2799030358,
+                    3078487919,
+                    3744057135
                 ]
             ],
             "tags": [
@@ -3910,6 +3916,56 @@
             ],
             "tags": [
                 "PVE"
+            ],
+            "originalWishlist": "leivysallia/json/Season_25"
+        },
+        {
+            "description": "Season 25",
+            "hash": 480368036,
+            "name": "Tinasha's Mastery",
+            "plugs": [
+                [
+                    3798852852
+                ],
+                [
+                    2822142346
+                ],
+                [
+                    951095735,
+                    3878366039
+                ],
+                [
+                    2109543898,
+                    2799030358
+                ]
+            ],
+            "tags": [
+                "GodPVP"
+            ],
+            "originalWishlist": "leivysallia/json/Season_25"
+        },
+        {
+            "description": "Season 25",
+            "hash": 480368036,
+            "name": "Tinasha's Mastery",
+            "plugs": [
+                [
+                    3525010810
+                ],
+                [
+                    3492396210
+                ],
+                [
+                    3828510309,
+                    1771736209
+                ],
+                [
+                    3673922083,
+                    2889515627
+                ]
+            ],
+            "tags": [
+                "PVP"
             ],
             "originalWishlist": "leivysallia/json/Season_25"
         }
