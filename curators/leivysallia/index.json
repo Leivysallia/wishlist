@@ -7,6 +7,8 @@
             "description": "Leivysallia's Wishlist...",
             "output": "revia-seasons.json",
             "files": [
+                "curators/leivysallia/json/Season_10.json",
+                "curators/leivysallia/json/Season_14.json",
                 "curators/leivysallia/json/Season_22.json",
                 "curators/leivysallia/json/Season_23.json",
                 "curators/leivysallia/json/Season_24.json",
