@@ -1,4 +1,5 @@
 .DS_Store
 .history
 .old
+.towishfor.csv
 node_modules
