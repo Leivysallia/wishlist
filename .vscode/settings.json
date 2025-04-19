@@ -1,0 +1,11 @@
+{
+    "sqltools.useNodeRuntime": true,
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "d2",
+            "database": "C:\\Users\\cstat\\d2.db"
+        }
+    ]
+}

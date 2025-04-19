@@ -3,7 +3,8 @@ import os
 
 
 def combine_json_files(file_path1, file_path2, output_file_path):
-    """Combines two JSON files into a single JSON file.
+    """
+    Combines two JSON files into a single JSON file.
 
     Args:
         file_path1: Path to the first JSON file.
