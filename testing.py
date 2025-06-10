@@ -15,7 +15,8 @@ delete_outro = r'\]\}$'
 file_paths = ["./curators/leivysallia/json/Season_10.json", "./curators/leivysallia/json/Season_11.json",
               "./curators/leivysallia/json/Season_14.json", "./curators/leivysallia/json/Season_15.json",
               "./curators/leivysallia/json/Season_22.json", "./curators/leivysallia/json/Season_23.json",
-              "./curators/leivysallia/json/Season_24.json", "./curators/leivysallia/json/Season_25.json"]
+              "./curators/leivysallia/json/Season_24.json", "./curators/leivysallia/json/Season_25.json",
+              "./curators/leivysallia/json/Season_26.json"]
 output_file = "merged.json"
 
 for json_file in file_paths:
@@ -32,7 +33,8 @@ for json_file in file_paths:
 new_file_paths = ["./curators/leivysallia/json/Season_10_mod.json", "./curators/leivysallia/json/Season_11_mod.json",
                   "./curators/leivysallia/json/Season_14_mod.json", "./curators/leivysallia/json/Season_15_mod.json",
                   "./curators/leivysallia/json/Season_22_mod.json", "./curators/leivysallia/json/Season_23_mod.json",
-                  "./curators/leivysallia/json/Season_24_mod.json", "./curators/leivysallia/json/Season_25_mod.json"]
+                  "./curators/leivysallia/json/Season_24_mod.json", "./curators/leivysallia/json/Season_25_mod.json",
+                  "./curators/leivysallia/json/Season_26_mod.json"]
 
 temp_list = []
 for new_json_file in new_file_paths:
@@ -40,14 +42,7 @@ for new_json_file in new_file_paths:
         for line in file:
             temp_list.append(line)
 
-out_data = f'{intro}{temp_list[0]},{temp_list[1]},{temp_list[2]},{temp_list[3]},{temp_list[4]},{temp_list[5]},{temp_list[6]},{temp_list[7]}{outro}'
+out_data = f'{intro}{temp_list[0]},{temp_list[1]},{temp_list[2]},{temp_list[3]},{temp_list[4]},{temp_list[5]},{temp_list[6]},{temp_list[7]},{temp_list[8]}{outro}'
 
 with open(output_file, 'w') as outfile:
     outfile.write(out_data)
-
-#merged_data = merge_json_files(new_file_paths)
-#with open(output_file, 'w') as outfile:
-#    json.dump(merged_data, outfile)
-#print(merged_data)
-
-
